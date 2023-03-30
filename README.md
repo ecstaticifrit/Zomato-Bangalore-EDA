@@ -21,3 +21,18 @@ Performed EDA on Zomato dataset. This dataset is a collection of restaurants tha
 - Cleaning individual columns
 - Remove null values from the dataset
 - Check for some more Transformations
+
+### Data Visualization
+- What is the total number of restaurants in the dataset?
+- How many of the restaurants offer online ordering?
+- How many of the restaurants have the option of booking a table?
+- What is the most common type of restaurant in Bangalore?
+- Which location has the highest number of restaurants?
+- How many restaurants have a rating of 4 or higher?
+- What is the average number of votes received by a restaurant?
+- Which restaurant has the most number of votes?
+- How many restaurants have more than 1000 votes?
+- What percentage of restaurants have a menu available on Zomato?
+- What percentage of restaurants allow online ordering and table booking?
+- What is the relationship between the number of votes and the rating for restaurants in different locations and cuisines?
+- How do the cuisines offered by restaurants vary across different locations and what are the most popular cuisines in each location?
