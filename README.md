@@ -8,6 +8,16 @@ Performed EDA on Zomato dataset. This dataset is a collection of restaurants tha
 - Finding relations between features
 
 # We will be performing the following tasks:
+
+### Explore the Data
 - Read the dataset
 - Understand each feature and write down the details
 - Explore the dataset info, describe and find columns with categories, and numeric columns as well
+
+### Data Cleaning
+- Deleting redundant columns
+- Renaming the columns
+- Dropping duplicates
+- Cleaning individual columns
+- Remove null values from the dataset
+- Check for some more Transformations
