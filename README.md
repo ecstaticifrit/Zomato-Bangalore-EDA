@@ -1,9 +1,9 @@
 # Zomato-Bangalore-EDA
 Performed EDA on Zomato dataset. This dataset is a collection of restaurants that are registered on Zomato in Bengaluru City. There are more than 50000 rows and 17 columns.
 
-# In Data Analysis what all things we do
+# In this project, the things we will do are:
 
-Handling Missing Values
+-andling Missing Values
 Explore numerical features.
 Explore categorical features.
 Finding relations between features.
